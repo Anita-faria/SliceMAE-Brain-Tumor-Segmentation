@@ -66,7 +66,7 @@ SliceMAE uses a **two-stage pipeline**:
 | MRI Modalities | T1, T1ce, T2, FLAIR |
 | Tumor Classes | Background, Necrotic Core, Peritumoral Edema, Enhancing Tumor |
 
-📥 Dataset available at: [Kaggle BraTS2020](https://www.kaggle.com/datasets/awsaf49/brats20-dataset-training-validation)
+📥 Dataset available at: [Kaggle BraTS2020](https://www.kaggle.com/datasets/talhaumar/brats2020-correct-dataset-training-validation)
 
 ---
 
